@@ -4,7 +4,6 @@
 - Cucumber
 - REST Assured
 - Serenity
-- Serenity Property file as datasource
 - Reports in html and excel formats
 
 
