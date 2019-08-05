@@ -148,8 +148,10 @@ public class LogicalServerSteps {
 				regularServerCount++;
 			}
 
-			/* Score validation- No adequate info to validate the score of a
-			   server*/
+			/*
+			 * Score validation- No adequate info to validate the score of a
+			 * server
+			 */
 
 			// Status validation
 			if (logicalServer.getStatus().equals(1)) {

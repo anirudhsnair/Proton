@@ -13,7 +13,7 @@ public class LogicalServerStepDefinitions {
 	LogicalServerSteps logicalServer;
 
 	@Given("^Retrieve API URL$")
-	public void getUrl()  {
+	public void getUrl() {
 		logicalServer.getApiUrl();
 	}
 
